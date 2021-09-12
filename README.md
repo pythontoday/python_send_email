@@ -8,3 +8,7 @@
 ##### Перед запуском скрипта разблокируйте доступ к почте ненадежным приложениям по следующей ссылке:
 
 https://myaccount.google.com/u/0/lesssecureapps
+
+---
+
+[Code](https://github.com/pythontoday/python_send_email/blob/master/main.py)
