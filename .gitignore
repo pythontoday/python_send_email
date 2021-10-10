@@ -2,3 +2,4 @@
 venv/
 *.pyc
 .vscode/
+.DS_Store
